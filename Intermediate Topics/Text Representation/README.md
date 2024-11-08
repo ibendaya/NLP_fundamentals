@@ -12,7 +12,7 @@ Text Representation/
 │   ├── word2vec.py
 │   ├── glove.py
 │   └── fasttext.py
-├── notes.md
+├── README.md
 └── sandbox.ipynb
 ```
 

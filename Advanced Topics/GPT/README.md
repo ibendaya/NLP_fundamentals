@@ -1,6 +1,6 @@
 # GPT Language Model Implementation
 
-The jupyter notebook was written following (Karpathy's video lectures)[https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1s]
+The jupyter notebook was written following [Karpathy's video lectures](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1s)
 
 This repository contains the implementation of a character-level GPT (Generative Pre-trained Transformer) language model built using PyTorch. The model is trained on a small dataset, specifically the Tiny Shakespeare text, to generate human-like text based on previous input characters. 
 
